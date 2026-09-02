@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nkpdpNvxN0U=",
+  "success": true,
+  "projectFilePath": "/home/igruk/Pictures/TESTREPOS/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/home/igruk/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
